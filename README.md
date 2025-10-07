@@ -1,6 +1,7 @@
 # leonard
 
-# 
+# Study
+Learning computer science in BTS SIO  at saint-benigne
 
 # 
 
